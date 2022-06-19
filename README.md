@@ -34,7 +34,8 @@ Birthday: 99/99
 - Python 3.10.0
 - IntelliJ idea Community
 - Visual Stduio Code
-- Discord
+- FireFox
+- ASUS Tuf Gaming K1 
 
 
 [^1]: My twitter and discord name
