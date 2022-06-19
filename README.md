@@ -24,7 +24,7 @@ Speak Lang: Japanese
 - [x] Python
 - [ ] JavaScript
 - [ ] Go
-- [ ] Koltion(daikkirai)
+- [ ] Koltin(daikkirai)
 
 # Using Tools
 
