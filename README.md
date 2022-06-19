@@ -27,9 +27,9 @@ Speak Lang: Japanese
 
 # Using Tools
 
-- JDK
+- JDK 17.0.3.1
 - Python 3.10.0
-- IntelliJ idea
+- IntelliJ idea Community
 - Visual Stduio Code(Python and json)
 - Discord
 
