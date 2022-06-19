@@ -25,4 +25,13 @@ Speak Lang: Japanese
 - [ ] JavaScript
 - [ ] Go
 
+# Using Tools
+
+- JDK
+- Python 3.10.0
+- IntelliJ idea
+- Visual Stduio Code(Python and json)
+- Discord
+
+
 [^1]: My twitter and discord name
