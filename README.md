@@ -24,13 +24,14 @@ Speak Lang: Japanese
 - [x] Python
 - [ ] JavaScript
 - [ ] Go
+- [ ] Koltion(daikkirai)
 
 # Using Tools
 
 - JDK 17.0.3.1
 - Python 3.10.0
 - IntelliJ idea Community
-- Visual Stduio Code(Python and json)
+- Visual Stduio Code
 - Discord
 
 
