@@ -4,7 +4,7 @@ Name:Distriful,Sasimi[^1]
 
 Age:15
 
-Location: Japan,Osaka
+Location: Osaka,Japan
 
 Speak Lang: Japanese
 
