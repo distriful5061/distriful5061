@@ -24,6 +24,7 @@ Birthday: 99/99
 
 - [x] Java
 - [x] Python
+- [ ] TypeScript
 - [ ] JavaScript
 - [ ] Go
 - [ ] Koltin(daikkirai)
