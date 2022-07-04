@@ -23,8 +23,8 @@ Birthday: 99/99
 
 - [x] Java
 - [x] Python
-- [ ] TypeScript(Javascript)
-- [ ] Go
+- [x] TypeScript(Javascript)
+- [x] Go
 - [x] C
 
 # Using Tools
