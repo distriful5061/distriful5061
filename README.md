@@ -26,6 +26,7 @@ Birthday: 99/99
 - [ ] TypeScript(Javascript)
 - [ ] Go
 - [ ] Koltin(daikkirai)
+- [ ] C
 
 # Using Tools
 
