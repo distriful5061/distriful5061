@@ -15,7 +15,7 @@ Birthday: 7/7
 
 # Links
 
-[Twitter](https://twitter.com/distriful)
+[Twitter](https://twitter.com/maedakedayo)
 
 [Discord](https://pastebin.com/VqbaZTYX)
 
